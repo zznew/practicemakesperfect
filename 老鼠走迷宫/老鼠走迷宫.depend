@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1560996747 source:f:\codeblocks_project\cpp\¿œ Û◊ﬂ√‘π¨\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<stack>
+	<vector>
+	<queue>
+	<random>
+	<time.h>
+	<algorithm>
+	<cassert>
+	<string>
+
